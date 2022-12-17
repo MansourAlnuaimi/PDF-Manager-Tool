@@ -10,7 +10,8 @@ cannot handle large files, and do not allow an open number of PDFs.
 
 <img src="Screenshots/Main-Menu.jpg"
      alt="A screenshot of main menu"
-     style="float: left; margin-right: 10px;" />
+     width = 50% height = 50%
+     style="float: center; margin-right: 10px;" />
 
 This project is ***PDF manager tool***. It can:
 
