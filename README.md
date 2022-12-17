@@ -8,8 +8,8 @@ These modifications could be done using some paid software, but this is costly.
 Modifications also could be done online by some websites. But the problem is that these websites are slow,
 cannot handle large files, and do not allow an open number of PDFs.
 
-<img src="Screenshots\Main-Menu.jpg"\>
-![](Screenshots\Main-Menu.jpg)
+
+![](Screenshots/Main-Menu.jpg)
 
 This project is ***PDF manager tool***. It can:
 
