@@ -82,4 +82,4 @@ The program then outputs the file with added sheets after each page.
 > This problem can occur in Adobe Acrobat. It can be avoided by opening the file in Chrome.
 
 **Getting Memory Error**
-> The program only accepts files that are less than 50 approximately. it cannot handle large files.
+> The program only accepts files that are less than 50 (approximately). it cannot handle large files.
