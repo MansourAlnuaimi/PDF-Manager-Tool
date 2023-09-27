@@ -1,5 +1,5 @@
 # PDF Manager tool
-This was my final project for Harvard's CS50P
+This was my final project for Harvard's CS50P. I am currently working on updating it with more features.
 #### Description:
 
 PDFs are one of the most popular file formats. We use it A lot in our daily life. 
